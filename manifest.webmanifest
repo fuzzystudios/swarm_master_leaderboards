@@ -1,0 +1,15 @@
+{
+  "name": "swarm master",
+  "short_name": "swarm master",
+  "id": "com.game.swarm_master",
+  "description": "Ever felt overwhelmed in a bullet hell? Always wanted to fight on even ground? Well this is the game for you! Scale up your swarm by taking the scraps from enemies, and OVERWHELM THE ENEMY INTO SUBMISSION! But remember, if YOU go down, it's GAME OVER.\n\nIn this stylish pixel art bullet hell game, you have to destroy enemy ships, while building up your swarm. to build up your swarm, you collect scraps from enemies, and you can pick between attack drones, support drones, and scavenger drones. Your drones aren't immortal though, so you gotta keep building! \n\n-Addictive and challenging gameplay! You'll always want to go for seconds!\n\n-Drop-dead gorgeous pixel art!\n\n-Epic customization! Change your colors and your ship with over 15 unlockable options!\n\n-Compete with the best! Beat the leaderboards! become the top SWARM MASTER!\n\nSo are you up to the challenge?",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "swarm master icon.png",
+        "sizes": "512x512"
+      }]
+}
